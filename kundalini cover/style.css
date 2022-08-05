@@ -1,0 +1,63 @@
+.container{
+    border: 5px solid black;
+    min-height: 100vh;
+    position: relative;
+    padding: 20px;
+    width: 50%;
+    background-color: greenyellow;
+    margin-left: 400px;
+    border-image-repeat: round;
+    
+
+
+
+}
+.inner-container{
+    border: 2px solid red;
+    margin: 40px 40px 40px 40px;
+     min-height: 100vh;
+}
+.image-container{
+    border: 2px solid green;
+    margin: 20px 20px;
+   
+    
+
+}
+.content-container{
+    border: 2px groove red;
+    margin: 20px 20px;
+}
+.top-icon img{
+    height: 40px;
+    width: 40px;
+}
+.top-icon{
+    position: absolute;
+    top: 10px;
+   
+        
+}
+.right-icon img{
+    height:40px;
+    width:40px;
+}
+.right-icon{
+    position: relative;
+    border-right: 0px;
+    margin-right: 15px;
+}
+.bottom-icon img{
+    height:40px;
+    width:40px;
+}
+.bottom-icon{
+
+}
+.left-icon img{
+    height:40px;
+    width:40px;
+}
+.left-icon {
+
+}
